@@ -1,5 +1,5 @@
 //connection to server
-let socket = io.connect('http://localhost:8080')
+let socket = io.connect('http://yz6637.itp.io:8080')
 
 function init(){
     draw();
